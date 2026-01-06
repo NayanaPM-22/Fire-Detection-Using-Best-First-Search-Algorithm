@@ -1,0 +1,1 @@
+# Fire-Detection-Using-Best-First-Search-Algorithm
