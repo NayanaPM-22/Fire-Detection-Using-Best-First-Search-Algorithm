@@ -65,23 +65,6 @@ This approach focuses computation only on **fire-like regions**, improving effic
 
 ---
 
-## 🧪 Limitations
-
-- False positives in bright non-fire regions
-- Fixed brightness threshold
-- Works on static frames (no temporal analysis)
-
----
-
-## 🚀 Future Improvements
-
-- Add color-based heuristics (red/yellow dominance)
-- Extend to video stream processing
-- Reduce false positives using motion analysis
-- Integrate IoT/cloud-based alert systems
-- Deploy on Raspberry Pi / Jetson devices
-
----
 
 ## ▶️ How to Run
 
@@ -110,18 +93,3 @@ This approach focuses computation only on **fire-like regions**, improving effic
 
 ---
 
-## 👩‍💻 Authors
-
--  Nayana Yogeshwari P M
-
--  Nandeesh Nayak
-
--  Prajwal Boodihal
-
--  Yogeesh
-
-Department of Information Technology
-
-National Institute of Technology, Surathkal
-
----
